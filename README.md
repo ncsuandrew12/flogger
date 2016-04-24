@@ -1,0 +1,2 @@
+# flogger
+JavaScript logging library
